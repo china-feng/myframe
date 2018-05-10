@@ -1,0 +1,19 @@
+{
+    "name": "china-feng/myframe",
+    "description": "myframe",
+    "type": "pack",
+    "license": "apache 2.0",
+    "authors": [
+        {
+            "name": "Jun Qiang",
+            "email": "1140713834@qq.com"
+        }
+    ],
+    "require": {
+        "vicens/captcha": "^4.0",
+        "composer/installers": "^1.5",
+        "easyswoole/verifycode": "^2.0",
+        "scolib/bankcard": "^1.0",
+        "phpoffice/phpexcel": "^1.8"
+    }
+}
